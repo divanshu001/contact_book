@@ -1,0 +1,1 @@
+CONTACT_FILE = "contacts.csv"
